@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "page": 2,
+  "page_size": 5,
+  "count": 5,
+  "total_count": 10,
+  "next_json": null,
+  "videos": [
+    {
+      "id": "gUuDZ5U8P0k",
+      "name": "What are the benefits of drinking coffee and caffeinated drinks?: BBC Learning English from the News",
+      "level": "B1",
+      "level_group": "intermediate",
+      "topic": "Basics",
+      "published_at": "2026-07-15"
+    },
+    {
+      "id": "pnDEWUSPFWc",
+      "name": "Learn to love your non-native accent: Beating Speaking Anxiety",
+      "level": "B1",
+      "level_group": "intermediate",
+      "topic": "Miscellaneous",
+      "published_at": "2026-07-14"
+    },
+    {
+      "id": "6Bzmb8uFQz4",
+      "name": "What's your dream job? 🤩🧑‍🚒🧑‍🚀 Real Easy English",
+      "level": "A2",
+      "level_group": "beginner",
+      "topic": "Miscellaneous",
+      "published_at": "2026-07-12"
+    },
+    {
+      "id": "hb1CBEENiPQ",
+      "name": "Should we cycle more? ⏲️ 6 Minute English",
+      "level": "B1",
+      "level_group": "intermediate",
+      "topic": "Miscellaneous",
+      "published_at": "2026-07-09"
+    },
+    {
+      "id": "pNRSi4henGA",
+      "name": "Taylor Swift Wedding: BBC Learning English from the News",
+      "level": "B1",
+      "level_group": "intermediate",
+      "topic": "Miscellaneous",
+      "published_at": "2026-07-08"
+    }
+  ]
+}
