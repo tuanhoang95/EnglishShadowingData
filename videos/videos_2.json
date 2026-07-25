@@ -3,8 +3,8 @@
   "page": 2,
   "page_size": 5,
   "count": 5,
-  "total_count": 10,
-  "next_json": null,
+  "total_count": 22,
+  "next_json": "videos_3.json",
   "videos": [
     {
       "id": "gUuDZ5U8P0k",
