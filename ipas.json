@@ -1,0 +1,857 @@
+[
+  {
+    "ipa": "/iː/",
+    "examples": [
+      "see",
+      "meet",
+      "team",
+      "leaf",
+      "green",
+      "machine",
+      "police",
+      "people",
+      "key",
+      "unique"
+    ],
+    "voices": {
+      "uk": "ipas/voices/21dda0c2fdad30cca52660109441a8b9.mp3",
+      "us": "ipas/voices/de490e7ac2c47e39d1d0b2fe9cd71abe.mp3"
+    },
+    "type": "vowels_long"
+  },
+  {
+    "ipa": "/ɪ/",
+    "examples": [
+      "sit",
+      "hit",
+      "bit",
+      "ship",
+      "think",
+      "middle",
+      "visit",
+      "image",
+      "busy",
+      "build"
+    ],
+    "voices": {
+      "uk": "ipas/voices/ae2884965cb97377a47fb0395632dc8c.mp3",
+      "us": "ipas/voices/de811e0a4ab05f0c30de12c0da3cb144.mp3"
+    },
+    "type": "vowels_short"
+  },
+  {
+    "ipa": "/e/",
+    "examples": [
+      "bed",
+      "set",
+      "red",
+      "pen",
+      "yes",
+      "head",
+      "bread",
+      "friend",
+      "said",
+      "again"
+    ],
+    "voices": {
+      "uk": "ipas/voices/9ae0edbede4561613c08e1ad3c58cf93.mp3",
+      "us": "ipas/voices/dd7e54f6c9e1b874da441bfed660bd00.mp3"
+    },
+    "type": "vowels_short"
+  },
+  {
+    "ipa": "/æ/",
+    "examples": [
+      "cat",
+      "map",
+      "black",
+      "man",
+      "apple",
+      "sad",
+      "hand",
+      "answer",
+      "bank",
+      "laugh"
+    ],
+    "voices": {
+      "uk": "ipas/voices/3ea844a34dbaf511b4720750f532f1de.mp3",
+      "us": "ipas/voices/dd97cb7a79054ca5589400c8d81e40f2.mp3"
+    },
+    "type": "vowels_short"
+  },
+  {
+    "ipa": "/ɑː/",
+    "examples": [
+      "father",
+      "car",
+      "start",
+      "hard",
+      "glass",
+      "bath",
+      "calm",
+      "palm",
+      "bra",
+      "spa"
+    ],
+    "voices": {
+      "uk": "ipas/voices/e06ff742549d9a0f85dfe750e2d3b3d8.mp3",
+      "us": "ipas/voices/92b4015228bed66b181ff31debf8d1b7.mp3"
+    },
+    "type": "vowels_long"
+  },
+  {
+    "ipa": "/ɔː/",
+    "examples": [
+      "thought",
+      "saw",
+      "law",
+      "caught",
+      "walk",
+      "talk",
+      "more",
+      "door",
+      "floor",
+      "four"
+    ],
+    "voices": {
+      "uk": "ipas/voices/9dc9d5725123baeef6736a59fd0f77b8.mp3",
+      "us": "ipas/voices/3ccce59eaa1b1140110754f3e5f0fb55.mp3"
+    },
+    "type": "vowels_long"
+  },
+  {
+    "ipa": "/ʊ/",
+    "examples": [
+      "put",
+      "look",
+      "book",
+      "foot",
+      "good",
+      "should",
+      "could",
+      "would",
+      "woman",
+      "wolf"
+    ],
+    "voices": {
+      "uk": "ipas/voices/aac75949ee187a55d48cefab3dfaf0e4.mp3",
+      "us": "ipas/voices/005b1f47a2bdfe79f900389e88defa4e.mp3"
+    },
+    "type": "vowels_short"
+  },
+  {
+    "ipa": "/uː/",
+    "examples": [
+      "blue",
+      "food",
+      "moon",
+      "true",
+      "group",
+      "fruit",
+      "juice",
+      "shoe",
+      "two",
+      "move"
+    ],
+    "voices": {
+      "uk": "ipas/voices/c6afe31b791f1c89ab01c3bfb7bfdec3.mp3",
+      "us": "ipas/voices/69b1cb4372393b2e87c3bd125fb10d8c.mp3"
+    },
+    "type": "vowels_long"
+  },
+  {
+    "ipa": "/ʌ/",
+    "examples": [
+      "cup",
+      "sun",
+      "up",
+      "love",
+      "blood",
+      "come",
+      "some",
+      "money",
+      "young",
+      "tough"
+    ],
+    "voices": {
+      "uk": "ipas/voices/e8a29ae250d42c5e7e21cd700aa37c16.mp3",
+      "us": "ipas/voices/5df6b40aa48c4935e9638ce61ec84ff0.mp3"
+    },
+    "type": "vowels_short"
+  },
+  {
+    "ipa": "/ɜː/",
+    "examples": [
+      "bird",
+      "her",
+      "turn",
+      "learn",
+      "word",
+      "work",
+      "world",
+      "nurse",
+      "hurt",
+      "earth"
+    ],
+    "voices": {
+      "uk": "ipas/voices/59c99175d4b2973a750fb10f554a5516.mp3"
+    },
+    "type": "vowels_long"
+  },
+  {
+    "ipa": "/ə/",
+    "examples": [
+      "about",
+      "common",
+      "standard",
+      "sofa",
+      "banana",
+      "supply",
+      "support",
+      "measure",
+      "treasure",
+      "pleasure"
+    ],
+    "voices": {
+      "uk": "ipas/voices/cd283d735c52c8e2dbf9c19a4e02d9ab.mp3",
+      "us": "ipas/voices/f452fe33f7682ea086e82234f0faf8c6.mp3"
+    },
+    "type": "vowels_short"
+  },
+  {
+    "ipa": "/eɪ/",
+    "examples": [
+      "day",
+      "say",
+      "make",
+      "take",
+      "name",
+      "face",
+      "place",
+      "great",
+      "break",
+      "steak"
+    ],
+    "voices": {
+      "uk": "ipas/voices/990aba3ae42f5f92f4ab026c7d60dc8e.mp3",
+      "us": "ipas/voices/a8c1f2126617b39bbb1fb834f525a4f0.mp3"
+    },
+    "type": "diphthongs"
+  },
+  {
+    "ipa": "/aɪ/",
+    "examples": [
+      "my",
+      "time",
+      "high",
+      "light",
+      "right",
+      "find",
+      "mind",
+      "child",
+      "kind",
+      "fight"
+    ],
+    "voices": {
+      "uk": "ipas/voices/7f7a06392423e2b754d338be4796ff0c.mp3",
+      "us": "ipas/voices/ded44d959631566551e0868001e72c13.mp3"
+    },
+    "type": "diphthongs"
+  },
+  {
+    "ipa": "/ɔɪ/",
+    "examples": [
+      "boy",
+      "toy",
+      "joy",
+      "oil",
+      "coin",
+      "noise",
+      "voice",
+      "choice",
+      "join",
+      "point"
+    ],
+    "voices": {
+      "uk": "ipas/voices/4ab136f438fdbce5317a97704224c585.mp3",
+      "us": "ipas/voices/15f04559db303fae8692d388eb701d5e.mp3"
+    },
+    "type": "diphthongs"
+  },
+  {
+    "ipa": "/aʊ/",
+    "examples": [
+      "now",
+      "how",
+      "cow",
+      "house",
+      "out",
+      "about",
+      "mouth",
+      "sound",
+      "round",
+      "found"
+    ],
+    "voices": {
+      "uk": "ipas/voices/099ac367088195fd16ef6256027634c6.mp3",
+      "us": "ipas/voices/25c4c253ab27123c8e2088d3a08f8021.mp3"
+    },
+    "type": "diphthongs"
+  },
+  {
+    "ipa": "/oʊ/",
+    "examples": [
+      "go",
+      "no",
+      "so",
+      "home",
+      "boat",
+      "road",
+      "coat",
+      "show",
+      "know",
+      "though"
+    ],
+    "voices": {
+      "us": "ipas/voices/44ed47407520b00d5b4334482a6648a8.mp3"
+    },
+    "type": "diphthongs"
+  },
+  {
+    "ipa": "/ɪə/",
+    "examples": [
+      "here",
+      "near",
+      "fear",
+      "beer",
+      "deer",
+      "clear",
+      "cheer",
+      "ear",
+      "tear",
+      "year"
+    ],
+    "voices": {
+      "uk": "ipas/voices/227c88d4a5ba042da79a94dcdcac321e.mp3"
+    },
+    "type": "diphthongs"
+  },
+  {
+    "ipa": "/eə/",
+    "examples": [
+      "air",
+      "care",
+      "share",
+      "bear",
+      "wear",
+      "where",
+      "there",
+      "their",
+      "hair",
+      "fair"
+    ],
+    "voices": {
+      "uk": "ipas/voices/4434ebec1f6c36cfc87459d77ed4e1c6.mp3"
+    },
+    "type": "diphthongs"
+  },
+  {
+    "ipa": "/ʊə/",
+    "examples": [
+      "tour",
+      "cure",
+      "pure",
+      "sure",
+      "poor",
+      "moor",
+      "endure",
+      "secure",
+      "mature",
+      "obscure"
+    ],
+    "voices": {
+      "uk": "ipas/voices/b8aa27aae86050c5ba57971d2b47280f.mp3"
+    },
+    "type": "diphthongs"
+  },
+  {
+    "ipa": "/p/",
+    "examples": [
+      "pen",
+      "spin",
+      "tip",
+      "happy",
+      "spy",
+      "apple",
+      "lip",
+      "map",
+      "cup",
+      "hop"
+    ],
+    "voices": {
+      "uk": "ipas/voices/be8803b5aa8c39e2d08dcbb2552f259e.mp3",
+      "us": "ipas/voices/27cdd29b3f5538073dfcfe2947c5779a.mp3"
+    },
+    "type": "consonants_unvoiced"
+  },
+  {
+    "ipa": "/b/",
+    "examples": [
+      "boy",
+      "web",
+      "big",
+      "about",
+      "baby",
+      "table",
+      "rub",
+      "club",
+      "job",
+      "rob"
+    ],
+    "voices": {
+      "uk": "ipas/voices/fadf3095543b9132890f0ece398384bc.mp3",
+      "us": "ipas/voices/91d5929c93487ea2fe5744f89edf932d.mp3"
+    },
+    "type": "consonants_voiced"
+  },
+  {
+    "ipa": "/t/",
+    "examples": [
+      "ten",
+      "two",
+      "tea",
+      "city",
+      "later",
+      "little",
+      "cat",
+      "hat",
+      "sit",
+      "cut"
+    ],
+    "voices": {
+      "uk": "ipas/voices/414bb026ee88b3cc605b90d3d145b99f.mp3",
+      "us": "ipas/voices/df7fdf59146d47f0ae8c5f9757804ded.mp3"
+    },
+    "type": "consonants_unvoiced"
+  },
+  {
+    "ipa": "/d/",
+    "examples": [
+      "day",
+      "ladder",
+      "odd",
+      "add",
+      "dog",
+      "red",
+      "bed",
+      "head",
+      "road",
+      "food"
+    ],
+    "voices": {
+      "uk": "ipas/voices/b30586d2e46851109aaaa095fc89a39e.mp3",
+      "us": "ipas/voices/7765fba0c5cafb40f26853663db2675a.mp3"
+    },
+    "type": "consonants_voiced"
+  },
+  {
+    "ipa": "/dʒ/",
+    "examples": [
+      "jump",
+      "judge",
+      "juice",
+      "giant",
+      "job",
+      "join",
+      "july",
+      "joke",
+      "giraffe",
+      "journal"
+    ],
+    "voices": {
+      "uk": "ipas/voices/125cc429d0d35f313ae95fe706c27484.mp3",
+      "us": "ipas/voices/2704ebadb6f75fb1da62c28d55a1c055.mp3"
+    },
+    "type": "consonants_voiced"
+  },
+  {
+    "ipa": "/tʃ/",
+    "examples": [
+      "chair",
+      "chocolate",
+      "child",
+      "church",
+      "choice",
+      "cheese",
+      "check",
+      "change",
+      "cheer",
+      "challenge"
+    ],
+    "voices": {
+      "uk": "ipas/voices/3f6d99cf9247e4bc5219d19bf1752057.mp3",
+      "us": "ipas/voices/b99b73208a62a9320af0d8309ad82b90.mp3"
+    },
+    "type": "consonants_unvoiced"
+  },
+  {
+    "ipa": "/k/",
+    "examples": [
+      "cat",
+      "sky",
+      "key",
+      "school",
+      "back",
+      "lock",
+      "cake",
+      "make",
+      "book",
+      "cook"
+    ],
+    "voices": {
+      "uk": "ipas/voices/b5cef089a6e2a9709498a7dee7b5ffae.mp3",
+      "us": "ipas/voices/485d96cd3837e6ae8ac28dac40e166c1.mp3"
+    },
+    "type": "consonants_unvoiced"
+  },
+  {
+    "ipa": "/g/",
+    "examples": [
+      "go",
+      "get",
+      "give",
+      "big",
+      "dog",
+      "egg",
+      "bag",
+      "leg",
+      "frog",
+      "glue"
+    ],
+    "voices": {
+      "uk": "ipas/voices/23ec50288e832bb4fa78250e2723a8dd.mp3",
+      "us": "ipas/voices/56455c85af7632c25441884bb721b345.mp3"
+    },
+    "type": "consonants_voiced"
+  },
+  {
+    "ipa": "/f/",
+    "examples": [
+      "fish",
+      "fall",
+      "fun",
+      "phone",
+      "leaf",
+      "off",
+      "cough",
+      "laugh",
+      "enough",
+      "photo"
+    ],
+    "voices": {
+      "uk": "ipas/voices/d340b41956bb78085b15488cf5985f5b.mp3",
+      "us": "ipas/voices/21b73b4e9373a2045f654083a9164317.mp3"
+    },
+    "type": "consonants_unvoiced"
+  },
+  {
+    "ipa": "/v/",
+    "examples": [
+      "voice",
+      "live",
+      "very",
+      "love",
+      "have",
+      "move",
+      "leave",
+      "five",
+      "van",
+      "vase"
+    ],
+    "voices": {
+      "uk": "ipas/voices/15f0ff570086baf440bf1c14e52b3e45.mp3",
+      "us": "ipas/voices/a13afd6841cdd9848db4b2454f949d82.mp3"
+    },
+    "type": "consonants_voiced"
+  },
+  {
+    "ipa": "/θ/",
+    "examples": [
+      "think",
+      "thing",
+      "bath",
+      "math",
+      "both",
+      "teeth",
+      "thick",
+      "thin",
+      "thank",
+      "three"
+    ],
+    "voices": {
+      "uk": "ipas/voices/c71eee42c2105aa84139d9798c027de1.mp3",
+      "us": "ipas/voices/439dd3da5ec306aeb5c078e09854d79c.mp3"
+    },
+    "type": "consonants_unvoiced"
+  },
+  {
+    "ipa": "/ð/",
+    "examples": [
+      "this",
+      "that",
+      "there",
+      "other",
+      "mother",
+      "father",
+      "brother",
+      "smooth",
+      "clothe",
+      "breathe"
+    ],
+    "voices": {
+      "uk": "ipas/voices/d9b41ae59025d6c8a87e2db822b21607.mp3",
+      "us": "ipas/voices/129b8d82a40e18d2047df4421e345822.mp3"
+    },
+    "type": "consonants_voiced"
+  },
+  {
+    "ipa": "/s/",
+    "examples": [
+      "see",
+      "sun",
+      "city",
+      "pass",
+      "face",
+      "rice",
+      "ice",
+      "bus",
+      "yes",
+      "kiss"
+    ],
+    "voices": {
+      "uk": "ipas/voices/980be9043e33c54df1c65a28889c7ab4.mp3",
+      "us": "ipas/voices/6ee4ae44dcac57d7c559e116d10cd224.mp3"
+    },
+    "type": "consonants_unvoiced"
+  },
+  {
+    "ipa": "/z/",
+    "examples": [
+      "zoo",
+      "zero",
+      "zone",
+      "buzz",
+      "lazy",
+      "haze",
+      "rose",
+      "nose",
+      "has",
+      "is"
+    ],
+    "voices": {
+      "uk": "ipas/voices/f61826caa921e6cf258666f9df17d22b.mp3",
+      "us": "ipas/voices/ef7ddbe1e7fc13032c3c8c7d385b1051.mp3"
+    },
+    "type": "consonants_voiced"
+  },
+  {
+    "ipa": "/ʃ/",
+    "examples": [
+      "she",
+      "ship",
+      "wish",
+      "fish",
+      "nation",
+      "special",
+      "sure",
+      "pressure",
+      "machine",
+      "ocean"
+    ],
+    "voices": {
+      "uk": "ipas/voices/0f01c3ba8cc756da246cee5eca9eeb02.mp3",
+      "us": "ipas/voices/9204b704d5e03fc482a1455e3f681ccd.mp3"
+    },
+    "type": "consonants_unvoiced"
+  },
+  {
+    "ipa": "/ʒ/",
+    "examples": [
+      "measure",
+      "pleasure",
+      "vision",
+      "decision",
+      "beige",
+      "treasure",
+      "usual",
+      "casual",
+      "fusion",
+      "illusion"
+    ],
+    "voices": {
+      "uk": "ipas/voices/74f3699c90525cd312bd5fb5407b1be1.mp3",
+      "us": "ipas/voices/02065654c956ccbd8dd63be2fbebe314.mp3"
+    },
+    "type": "consonants_voiced"
+  },
+  {
+    "ipa": "/h/",
+    "examples": [
+      "hot",
+      "happy",
+      "house",
+      "head",
+      "hand",
+      "hello",
+      "help",
+      "hope",
+      "high",
+      "home"
+    ],
+    "voices": {
+      "uk": "ipas/voices/a15344c794de200b1d97bf9183734631.mp3",
+      "us": "ipas/voices/cf950b8566cce621473921675717808e.mp3"
+    },
+    "type": "consonants_unvoiced"
+  },
+  {
+    "ipa": "/m/",
+    "examples": [
+      "man",
+      "mother",
+      "make",
+      "summer",
+      "name",
+      "time",
+      "come",
+      "home",
+      "room",
+      "dream"
+    ],
+    "voices": {
+      "uk": "ipas/voices/b404372af4fa9d04ac385180243e5499.mp3",
+      "us": "ipas/voices/b60bfdb8e0c55ce90af7f8c519882851.mp3"
+    },
+    "type": "consonants_voiced"
+  },
+  {
+    "ipa": "/n/",
+    "examples": [
+      "no",
+      "now",
+      "name",
+      "sun",
+      "fun",
+      "ten",
+      "pen",
+      "man",
+      "can",
+      "win"
+    ],
+    "voices": {
+      "uk": "ipas/voices/ffa1273c86497d795c66fee329bb7826.mp3",
+      "us": "ipas/voices/11973fd8e084040ea095fdd90fde463d.mp3"
+    },
+    "type": "consonants_voiced"
+  },
+  {
+    "ipa": "/ŋ/",
+    "examples": [
+      "sing",
+      "long",
+      "thing",
+      "ring",
+      "song",
+      "king",
+      "wing",
+      "bring",
+      "spring",
+      "morning"
+    ],
+    "voices": {
+      "uk": "ipas/voices/8d4565d006bef7cf70f6912def2138b7.mp3",
+      "us": "ipas/voices/1b8db8388961f4a6376ace0a27962090.mp3"
+    },
+    "type": "consonants_voiced"
+  },
+  {
+    "ipa": "/l/",
+    "examples": [
+      "like",
+      "love",
+      "light",
+      "little",
+      "fall",
+      "ball",
+      "call",
+      "tell",
+      "well",
+      "feel"
+    ],
+    "voices": {
+      "uk": "ipas/voices/7255496f0ce88ea0fc34d384b4787981.mp3",
+      "us": "ipas/voices/6722e1f3960549978bd637387ea0248a.mp3"
+    },
+    "type": "consonants_voiced"
+  },
+  {
+    "ipa": "/r/",
+    "examples": [
+      "red",
+      "right",
+      "run",
+      "river",
+      "road",
+      "rain",
+      "room",
+      "read",
+      "write",
+      "cry"
+    ],
+    "voices": {
+      "uk": "ipas/voices/31c0fad0bdf14daded93bcdd9bd13ece.mp3",
+      "us": "ipas/voices/730caeb8b3c577d5d85dcf09aad2fd35.mp3"
+    },
+    "type": "consonants_voiced"
+  },
+  {
+    "ipa": "/j/",
+    "examples": [
+      "yes",
+      "you",
+      "year",
+      "young",
+      "yellow",
+      "yard",
+      "yoga",
+      "yesterday",
+      "yell",
+      "yacht"
+    ],
+    "voices": {
+      "uk": "ipas/voices/d2f029936d48da85cca480e8537f3338.mp3",
+      "us": "ipas/voices/d25743a46a66eae62e92f23c2112d0cc.mp3"
+    },
+    "type": "consonants_voiced"
+  },
+  {
+    "ipa": "/w/",
+    "examples": [
+      "we",
+      "wet",
+      "win",
+      "wind",
+      "wood",
+      "work",
+      "word",
+      "world",
+      "week",
+      "wish"
+    ],
+    "voices": {
+      "uk": "ipas/voices/db102612bb5e0eca43b28437544eb783.mp3",
+      "us": "ipas/voices/5a2b35ff0963a652292e96fd20b4a800.mp3"
+    },
+    "type": "consonants_voiced"
+  }
+]
