@@ -1,17 +1,9 @@
 {
   "page": 2,
   "page_size": 20,
-  "total_videos": 31,
-  "updated_at": "2026-09-11T01:11:05.041731+00:00",
+  "total_videos": 30,
+  "updated_at": "2026-10-05T07:58:43.693257+00:00",
   "videos": [
-    {
-      "id": "iVDuU8TXrIY",
-      "name": "English Podcast for Easy English Conversation | Talk About Your Day At Work in English | Daily Life",
-      "level": "B1",
-      "level_group": "intermediate",
-      "topic": "Basics",
-      "published_at": "2026-06-21"
-    },
     {
       "id": "F6nsDqXA1CY",
       "name": "Talking About Exercise in English | Easy English Podcast For Learning English | Daily Life",

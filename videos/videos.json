@@ -1,8 +1,8 @@
 {
   "page": 1,
   "page_size": 20,
-  "total_videos": 31,
-  "updated_at": "2026-09-11T01:11:05.041731+00:00",
+  "total_videos": 30,
+  "updated_at": "2026-10-05T07:58:43.693257+00:00",
   "videos": [
     {
       "id": "5aK0o2GSERg",
@@ -12,15 +12,6 @@
       "duration_ms": 2066000,
       "level": "Beginner",
       "created_at": "2026-09-11T01:11:05.041113+00:00"
-    },
-    {
-      "id": "dQw4w9WgXcQ",
-      "name": "Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)",
-      "channel_id": "UCuAXFkgsw1L7xaCfnd5JJOw",
-      "channel_name": "Rick Astley",
-      "duration_ms": 213000,
-      "level": "Beginner",
-      "created_at": "2026-09-10T07:48:20.228893+00:00"
     },
     {
       "id": "mD9BM0fBybg",
@@ -165,6 +156,14 @@
       "level_group": "intermediate",
       "topic": "Basics",
       "published_at": "2026-06-22"
+    },
+    {
+      "id": "iVDuU8TXrIY",
+      "name": "English Podcast for Easy English Conversation | Talk About Your Day At Work in English | Daily Life",
+      "level": "B1",
+      "level_group": "intermediate",
+      "topic": "Basics",
+      "published_at": "2026-06-21"
     }
   ],
   "next_json": "videos_2.json"
